@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">Pmdm2</string>
+    <string name="nom">Nom: </string>
+    <string name="sexe">Sexe: </string>
+    <string name="molt">Molt</string>
+    <string name="poquet">Poquet</string>
+    <string name="enviar_dades">Enviar Dades</string>
+    <string name="mns1">Açí mostrarem les dades quan tornem...</string>
+    <string name="edat">Edat: </string>
+    <string name="continuar">Continuar</string>
+
+</resources>
